@@ -1,0 +1,4 @@
+typewriter
+==========
+
+JQuery Typewriter Plugin
